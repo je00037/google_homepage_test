@@ -16,6 +16,9 @@
     float: right;
 }
 
+#header {
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -24,4 +27,11 @@ ul {
 
 li {
     display: inline;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+#google-search {
+    font-size: 24px;
+    line-height: 24px;
 }
